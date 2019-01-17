@@ -2,6 +2,11 @@
 # Angular Correlation
 This repository contains the code and data for an experiment measuring the angular correlation of two gamma quantums emitted from an excited state of a Cobalt-60 nucleus performed by Luca Naterop, Christopher Binz and Johannes Lade.
 
+`convert.js` is a tiny node script to convert the given `ASCII` files into a `csv` file. Usage:
+
+`node convert.js input.Spe output.csv`
+
+
 # Folders
 #### `/original_data` 
 contains the ASCII data as recorded by the Maestro software.
