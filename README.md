@@ -1,6 +1,6 @@
 
 # Angular Correlation
-This repository contains the code and data for an experiment measuring the angular correlation of two gamma quantums emitted from an excited state of a Cobalt-60 nucleus. 
+This repository contains the code and data for an experiment measuring the angular correlation of two gamma quantums emitted from an excited state of a Cobalt-60 nucleus performed by Luca Naterop, Christopher Binz and Johannes Lade.
 
 # Folders
 #### `/original_data` 
