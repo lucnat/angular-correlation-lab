@@ -1,0 +1,13 @@
+
+General model:
+     f(x) = 1+a1*cos(x)^2+a2*cos(x)^4
+Coefficients (with 95% confidence bounds):
+       a1 =       0.386  (0.264, 0.508)
+       a2 =     -0.2016  (-0.3424, -0.0608)
+
+Goodness of fit:
+  SSE: 3.004
+  R-square: 0.9783
+  Adjusted R-square: 0.9752
+  RMSE: 0.6551
+
