@@ -4,7 +4,7 @@ This repository contains the code and data for an experiment measuring the angul
 
 `convert.js` is a tiny node script to convert the given `ASCII` files into a `csv` file. Usage:
 
-`node convert.js input.Spe output.csv`
+`$ node convert.js input.Spe output.csv`
 
 
 # Folders
